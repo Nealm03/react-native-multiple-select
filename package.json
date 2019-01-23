@@ -1,7 +1,7 @@
 {
-  "name": "react-native-multiple-select",
+  "name": "react-native-multiple-select-expo",
   "version": "0.4.4",
-  "description": "Simple multi-select component for react-native",
+  "description": "Simple multi-select component for react-native expo",
   "main": "index.js",
   "scripts": {
     "precommit": "lint-staged",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toystars/react-native-multiple-select.git"
+    "url": "git+https://github.com/Nealm03/react-native-multiple-select-expo.git"
   },
   "keywords": [
     "reactnative",
@@ -30,9 +30,9 @@
   "author": "Mustapha Babatunde Oluwaleke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toystars/react-native-multiple-select/issues"
+    "url": "https://github.com/Nealm03/react-native-multiple-select-expo/issues"
   },
-  "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
+  "homepage": "https://github.com/Nealm03/react-native-multiple-select-expo#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^7.1.1",
@@ -53,8 +53,8 @@
   },
   "peerDependencies": {
     "lodash": "^4.17.11",
-    "react": "16.6.3",
-    "react-native": "^0.57.8",
-    "react-native-vector-icons": "^6.1.0"
+    "react": "^16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.1.tar.gz",
+    "@expo/vector-icons": "^8.0.0"
   }
 }
