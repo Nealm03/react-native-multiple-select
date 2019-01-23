@@ -8,7 +8,7 @@
 
 
 ## Important notice
-I've been super busy with work and other projects lately that I really don't have enough time to dedicate to this project. If you would like to maintain this project, you can drop me an [email](mailto:toystars2008@gmail.com). Thanks.
+All credit goes to the original author of this package. This fork was created to support expo vector icons. If you'd like to reach out to original author you can find him here: [email](mailto:toystars2008@gmail.com). I am not working on this project actively, it was an effort to solve a very small problem in a minimalistic fashion. Perhaps this project will later on veer a bit more from the original
 
 ## Installation
 
@@ -23,9 +23,7 @@ $ yarn add react-native-multiple-select
 
 
 ## Usage
-Note: Ensure to add and configure [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) to your project before using this package.
-
-You can clone and try out the [sample](https://github.com/toystars/RN-multiple-select-sample) app.
+Note: Ensure to add and configure @expo/vector-icons
 
 The snippet below shows how the component can be used
 
